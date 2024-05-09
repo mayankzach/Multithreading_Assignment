@@ -1,4 +1,4 @@
-# Mulithreading_Aaryan_102103037
+# Mulithreading_102103037
 Submitted by: ***Mayank Gupta*** 
 Roll No: ***102103037***
 Group: ***3COE2***
